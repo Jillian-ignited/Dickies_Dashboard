@@ -5738,69 +5738,38 @@
                 <p style="color: #888; margin-top: 15px;"><strong>→ See Tab:</strong> Seasonal Insights & Actions (Spring/Fall analysis, door optimization, Spring 2026 recommendations)</p>
             </div>
             
-            
-            <h3 class="section-title">📊 Current Performance Snapshot</h3>
-            <p style="color: #888; margin-bottom: 20px;"><strong>📅 ANALYZING:</strong> Last 13 weeks (WM WK 40-40 (YTD)) • STD through WK 39</p>
-            
-            <div class="metric-grid">
-                <div class="metric-card">
-                    <div class="metric-label">💰 Wholesale Shipments (40W YTD)</div>
-                    <div class="metric-value">$60.7M</div>
-                    <div class="metric-subtitle">-11.8% vs LY | $-8.1M</div>
-                </div>
-                
-                <div class="metric-card">
-                    <div class="metric-label">📊 Retail POS (40W YTD)</div>
-                    <div class="metric-value">$93.5M</div>
-                    <div class="metric-subtitle">-7.5% vs LY</div>
-                </div>
-                
-                <div class="metric-card">
-                    <div class="metric-label">📦 Weeks of Supply</div>
-                    <div class="metric-value">20.3</div>
-                    <div class="metric-subtitle">Target: 15 | Category: 18 | Men's: 11</div>
-                </div>
-                
-                <div class="metric-card">
-                    <div class="metric-label">🔄 GMROII</div>
-                    <div class="metric-value">1.42x</div>
-                    <div class="metric-subtitle">Target: 2.0-2.3x ❌</div>
-                </div>
-                
-                <div class="metric-card">
-                    <div class="metric-label">💵 Avg Wholesale ASP</div>
-                    <div class="metric-value">~$14.37</div>
-                    <div class="metric-subtitle">Based on 43.2% IMU</div>
-                </div>
-                
-                <div class="metric-card">
-                    <div class="metric-label">🎯 SKU Count</div>
-                    <div class="metric-value">329</div>
-                    <div class="metric-subtitle">Active SKUs</div>
-                </div>
-                
-                <div class="metric-card" style="border-left: 4px solid #3b82f6;">
-                    <div class="metric-label">📈 Tier Movement</div>
-                    <div class="metric-value">+0</div>
-                    <div class="metric-subtitle">⬆️ 0 promoted, 0 demoted</div>
-                </div>
-            </div>
+<h3 class="section-title">📊 Current Performance Snapshot</h3>
+<p style="color: #888; margin-bottom: 20px;">
+    <strong>📅 ANALYZING:</strong> [[CURRENT_ANALYSIS_LABEL]]
+</p>
 
-            <div class="insight-box">
-                <h3>💡 How to Use This Dashboard</h3>
-                <p><strong>For Weekly Business Reviews:</strong></p>
-                <ul style="margin-left: 20px; margin-top: 10px; line-height: 1.8; color: #ddd;">
-                    <li>📈 <strong>Performance & Trends</strong> - Track weekly sales, WOS, GMROII, margin compression</li>
-                    <li>📋 <strong>SKU Performance</strong> - Monitor A/B/C items, inventory concentration</li>
-                    <li>⚡ <strong>Action Plan</strong> - Use decision tree for what to ship, what to stop</li>
-                </ul>
-                <p style="margin-top: 15px;"><strong>For Strategic Planning:</strong></p>
-                <ul style="margin-left: 20px; margin-top: 10px; line-height: 1.8; color: #ddd;">
-                    <li>💰 <strong>GMROII & Margin</strong> - Understand WOS problem and solution</li>
-                    <li>👥 <strong>Young Men's Expansion</strong> - Financial scenarios, Walmart pitch</li>
-                    <li>📊 <strong>Performance & Trends</strong> - Historical context (2019 peak → current decline)</li>
-                </ul>
-            </div>
+<div class="metric-grid">
+    <div class="metric-card">
+        <div class="metric-label">📊 Retail POS – Last Week</div>
+        <div class="metric-value">[[WEEKLY_SALES_DOLLARS]]</div>
+        <div class="metric-subtitle">[[WEEKLY_DOLLARS_PCT_DELTA]] vs LY</div>
+    </div>
+    
+    <div class="metric-card">
+        <div class="metric-label">📦 On-Hand Retail</div>
+        <div class="metric-value">[[WEEKLY_INVENTORY_DOLLARS]]</div>
+        <div class="metric-subtitle">[[WEEKLY_WOS]] WOS • ST: [[WEEKLY_SELLTHRU]]%</div>
+    </div>
+    
+    <div class="metric-card">
+        <div class="metric-label">📦 On-Hand Units</div>
+        <div class="metric-value">[[WEEKLY_INVENTORY_UNITS]]</div>
+        <div class="metric-subtitle">Store inventory (LW)</div>
+    </div>
+    
+    <div class="metric-card">
+        <div class="metric-label">📈 Units Δ vs LY</div>
+        <div class="metric-value">[[WEEKLY_UNITS_PCT_DELTA]]</div>
+        <div class="metric-subtitle">([[WEEKLY_UNITS_DELTA]] units)</div>
+    </div>
+</div>
+            
+      
         </div>        <!-- TAB 2: WEEKLY SALES INSIGHTS -->
         <div id="weekly-sales-insights" class="tab-content">
             <h2>📅 Weekly Sales Insights</h2>
