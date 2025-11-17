@@ -1,0 +1,13 @@
+{
+  "week": 40,
+  "week_label": "WM WK 40",
+  "date_loaded": "2025-11-16T17:41:22.621236",
+  "status": "ok",
+  "sku_count": 329,
+  "fineline_count": 19,
+  "tier_counts": {
+    "A": 12,
+    "B": 21,
+    "C": 296
+  }
+}

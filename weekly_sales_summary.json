@@ -1,0 +1,21 @@
+{
+  "week": 40,
+  "week_label": "WM WK 40",
+  "sales_lw": 2110263.11,
+  "sales_lwly": 2217692.4200000004,
+  "delta_sales_lw": -107429.31000000052,
+  "pct_change_lw": -0.04844193407127238,
+  "sales_ytd": 95594960.07000001,
+  "sales_ytd_ly": 103315397.77000001,
+  "delta_sales_ytd": -7720437.700000003,
+  "pct_change_ytd": -0.07472688356857693,
+  "ytd_wholesale_shipments": 127751929.10999998,
+  "avg_wos": 20.261236456341617,
+  "velocity_opp_cost": -0.45246518246283834,
+  "imu_pct": 0.4500022485773146,
+  "sku_count": 329,
+  "tier_a_count": 12,
+  "tier_b_count": 21,
+  "tier_c_count": 296,
+  "ab_count": 33
+}

@@ -1,0 +1,1711 @@
+{
+  "week": 40,
+  "tier_a_count": 12,
+  "tier_b_count": 21,
+  "tier_c_count": 296,
+  "ab_count": 33,
+  "seasonal_risk_count": 0,
+  "exit_candidates": [],
+  "actions": [
+    {
+      "action_id": "ACT-2025-WK40-001",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "AP401RBK",
+        "target_description": "1006 - DICKIES Straight - AP401RBK",
+        "fineline": "1006 - DICKIES Straight",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 106.0 weeks (607% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 106.0,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-003",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GP8111VG",
+        "target_description": "605 - SLIM FIT PANT - GP8111VG",
+        "fineline": "605 - SLIM FIT PANT",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 74.5 weeks (397% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 74.5,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-033",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A8DLSBLK",
+        "target_description": "4192 - GD HANGING GRAPHIC TEE - A8DLSBLK",
+        "fineline": "4192 - GD HANGING GRAPHIC TEE",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 54.7 weeks (265% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 54.7,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-036",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A8DLSAL2",
+        "target_description": "4192 - GD HANGING GRAPHIC TEE - A8DLSAL2",
+        "fineline": "4192 - GD HANGING GRAPHIC TEE",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 50.0 weeks (233% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 50.0,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-008",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GVS360VY9",
+        "target_description": "609 - HIGH VIS - GVS360VY9",
+        "fineline": "609 - HIGH VIS",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 49.5 weeks (230% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 49.5,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-005",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GS570DN",
+        "target_description": "608 - SS WORK SHIRT - GS570DN",
+        "fineline": "608 - SS WORK SHIRT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 37.4 weeks (149% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 37.4,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-016",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GP8738BK",
+        "target_description": "675 - DBL KNEE PANT - GP8738BK",
+        "fineline": "675 - DBL KNEE PANT",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 37.3 weeks (149% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 37.3,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-034",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A89WO0KU",
+        "target_description": "4192 - GD HANGING GRAPHIC TEE - A89WO0KU",
+        "fineline": "4192 - GD HANGING GRAPHIC TEE",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 36.5 weeks (143% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 36.5,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-023",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "11874CH",
+        "target_description": "711 - FLEX 874 WORK PANT - 11874CH",
+        "fineline": "711 - FLEX 874 WORK PANT",
+        "tier": "A",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 35.2 weeks (135% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 35.2,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-041",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A85ZP0NA",
+        "target_description": "676 - LS POLY HOODIE - A85ZP0NA",
+        "fineline": "676 - LS POLY HOODIE",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 33.5 weeks (123% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 33.5,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-021",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "11874DS",
+        "target_description": "711 - FLEX 874 WORK PANT - 11874DS",
+        "fineline": "711 - FLEX 874 WORK PANT",
+        "tier": "A",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 33.3 weeks (122% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 33.3,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-006",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GS570CH",
+        "target_description": "608 - SS WORK SHIRT - GS570CH",
+        "fineline": "608 - SS WORK SHIRT",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 29.3 weeks (95% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 29.3,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-002",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GP8111BK",
+        "target_description": "605 - SLIM FIT PANT - GP8111BK",
+        "fineline": "605 - SLIM FIT PANT",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 26.6 weeks (77% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 26.6,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-009",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GL570BK",
+        "target_description": "611 - LS WORK SHIRT - GL570BK",
+        "fineline": "611 - LS WORK SHIRT",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 25.9 weeks (73% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 25.9,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-028",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A8881BLK",
+        "target_description": "1141-DICKIES SS TEES - A8881BLK",
+        "fineline": "1141-DICKIES SS TEES",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 25.5 weeks (70% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 25.5,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-010",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GL570DN",
+        "target_description": "611 - LS WORK SHIRT - GL570DN",
+        "fineline": "611 - LS WORK SHIRT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 25.2 weeks (68% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 25.2,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-027",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A862X0DS",
+        "target_description": "1141-DICKIES SS TEES - A862X0DS",
+        "fineline": "1141-DICKIES SS TEES",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 40% for next 4-6 weeks",
+        "rationale": "WOS at 25.2 weeks (68% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 25.2,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-014",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GP738BK",
+        "target_description": "675 - DBL KNEE PANT - GP738BK",
+        "fineline": "675 - DBL KNEE PANT",
+        "tier": "A",
+        "recommendation": "Reduce wholesale receipts by 30% for next 4-6 weeks",
+        "rationale": "WOS at 24.1 weeks (61% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 24.1,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-035",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A89WOBLK",
+        "target_description": "4192 - GD HANGING GRAPHIC TEE - A89WOBLK",
+        "fineline": "4192 - GD HANGING GRAPHIC TEE",
+        "tier": "C",
+        "recommendation": "Reduce wholesale receipts by 30% for next 4-6 weeks",
+        "rationale": "WOS at 23.9 weeks (59% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 23.9,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-024",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "11874DN",
+        "target_description": "711 - FLEX 874 WORK PANT - 11874DN",
+        "fineline": "711 - FLEX 874 WORK PANT",
+        "tier": "A",
+        "recommendation": "Reduce wholesale receipts by 30% for next 4-6 weeks",
+        "rationale": "WOS at 23.3 weeks (55% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 23.3,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-043",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A85YS0DS",
+        "target_description": "680 - RIPSTOP SHORT - A85YS0DS",
+        "fineline": "680 - RIPSTOP SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 30% for next 4-6 weeks",
+        "rationale": "WOS at 22.8 weeks (52% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 22.8,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-044",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A85YS0GA",
+        "target_description": "680 - RIPSTOP SHORT - A85YS0GA",
+        "fineline": "680 - RIPSTOP SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 30% for next 4-6 weeks",
+        "rationale": "WOS at 22.4 weeks (49% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 22.4,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-032",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A85ZOBLK",
+        "target_description": "3943-DICKIES PERFORMANCE SHORT - A85ZOBLK",
+        "fineline": "3943-DICKIES PERFORMANCE SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 30% for next 4-6 weeks",
+        "rationale": "WOS at 21.7 weeks (45% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 21.7,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-017",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "EU1939RMS",
+        "target_description": "679 - DUCK PANT - EU1939RMS",
+        "fineline": "679 - DUCK PANT",
+        "tier": "A",
+        "recommendation": "Reduce wholesale receipts by 30% for next 4-6 weeks",
+        "rationale": "WOS at 21.6 weeks (44% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 21.6,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-018",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "EU1939RSL",
+        "target_description": "679 - DUCK PANT - EU1939RSL",
+        "fineline": "679 - DUCK PANT",
+        "tier": "A",
+        "recommendation": "Reduce wholesale receipts by 30% for next 4-6 weeks",
+        "rationale": "WOS at 21.1 weeks (41% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 21.1,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-047",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A87Z2FBK",
+        "target_description": "690 - 13\" TWILL SHORT - A87Z2FBK",
+        "fineline": "690 - 13\" TWILL SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 30% for next 4-6 weeks",
+        "rationale": "WOS at 20.3 weeks (35% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 20.3,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-012",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GP338BK",
+        "target_description": "674 - CARGO PANT - GP338BK",
+        "fineline": "674 - CARGO PANT",
+        "tier": "A",
+        "recommendation": "Reduce wholesale receipts by 30% for next 4-6 weeks",
+        "rationale": "WOS at 20.2 weeks (35% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 20.2,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-020",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "EU1939RBK",
+        "target_description": "679 - DUCK PANT - EU1939RBK",
+        "fineline": "679 - DUCK PANT",
+        "tier": "A",
+        "recommendation": "Reduce wholesale receipts by 30% for next 4-6 weeks",
+        "rationale": "WOS at 20.2 weeks (35% above target). Severe inventory bloat."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 20.2,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-011",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "exit_candidate",
+        "target": "sku",
+        "target_id": "EB713RBD",
+        "target_description": "640 -  BIBS - EB713RBD",
+        "fineline": "640 -  BIBS",
+        "tier": "C",
+        "recommendation": "Consider phasing out - C-tier with 18.9 weeks WOS",
+        "rationale": "C-tier item driving only 0.0K in sales but tying up inventory."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 18.9,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-015",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "exit_candidate",
+        "target": "sku",
+        "target_id": "GP738DN",
+        "target_description": "675 - DBL KNEE PANT - GP738DN",
+        "fineline": "675 - DBL KNEE PANT",
+        "tier": "C",
+        "recommendation": "Consider phasing out - C-tier with 17.8 weeks WOS",
+        "rationale": "C-tier item driving only 0.0K in sales but tying up inventory."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 17.8,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-031",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "exit_candidate",
+        "target": "sku",
+        "target_id": "A85ZO0MS",
+        "target_description": "3943-DICKIES PERFORMANCE SHORT - A85ZO0MS",
+        "fineline": "3943-DICKIES PERFORMANCE SHORT",
+        "tier": "C",
+        "recommendation": "Consider phasing out - C-tier with 17.8 weeks WOS",
+        "rationale": "C-tier item driving only 0.0K in sales but tying up inventory."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 17.8,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-042",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "exit_candidate",
+        "target": "sku",
+        "target_id": "A85ZPBLK",
+        "target_description": "676 - LS POLY HOODIE - A85ZPBLK",
+        "fineline": "676 - LS POLY HOODIE",
+        "tier": "C",
+        "recommendation": "Consider phasing out - C-tier with 17.5 weeks WOS",
+        "rationale": "C-tier item driving only 0.0K in sales but tying up inventory."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 17.5,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-030",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "exit_candidate",
+        "target": "sku",
+        "target_id": "A85ZO0DS",
+        "target_description": "3943-DICKIES PERFORMANCE SHORT - A85ZO0DS",
+        "fineline": "3943-DICKIES PERFORMANCE SHORT",
+        "tier": "C",
+        "recommendation": "Consider phasing out - C-tier with 15.7 weeks WOS",
+        "rationale": "C-tier item driving only 0.0K in sales but tying up inventory."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 15.7,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-013",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "exit_candidate",
+        "target": "sku",
+        "target_id": "GP338DN",
+        "target_description": "674 - CARGO PANT - GP338DN",
+        "fineline": "674 - CARGO PANT",
+        "tier": "C",
+        "recommendation": "Consider phasing out - C-tier with 15.1 weeks WOS",
+        "rationale": "C-tier item driving only 0.0K in sales but tying up inventory."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 15.1,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-026",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "high",
+      "status": "pending",
+      "action": {
+        "type": "exit_candidate",
+        "target": "sku",
+        "target_id": "A862X0CH",
+        "target_description": "1141-DICKIES SS TEES - A862X0CH",
+        "fineline": "1141-DICKIES SS TEES",
+        "tier": "C",
+        "recommendation": "Consider phasing out - C-tier with 15.1 weeks WOS",
+        "rationale": "C-tier item driving only 0.0K in sales but tying up inventory."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 15.1,
+        "target_value": 15.0,
+        "timeframe_weeks": 4,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-019",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "EU1939RBD",
+        "target_description": "679 - DUCK PANT - EU1939RBD",
+        "fineline": "679 - DUCK PANT",
+        "tier": "A",
+        "recommendation": "Reduce wholesale receipts by 20% for next 4 weeks",
+        "rationale": "WOS at 19.2 weeks (28% above target). A-item needs velocity improvement."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 19.2,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-004",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GS570BK",
+        "target_description": "608 - SS WORK SHIRT - GS570BK",
+        "fineline": "608 - SS WORK SHIRT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 20% for next 4 weeks",
+        "rationale": "WOS at 18.8 weeks (25% above target). B-item needs velocity improvement."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 18.8,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-045",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A85YSFBK",
+        "target_description": "680 - RIPSTOP SHORT - A85YSFBK",
+        "fineline": "680 - RIPSTOP SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 20% for next 4 weeks",
+        "rationale": "WOS at 18.5 weeks (23% above target). B-item needs velocity improvement."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 18.5,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-007",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "GVL360VY9",
+        "target_description": "609 - HIGH VIS - GVL360VY9",
+        "fineline": "609 - HIGH VIS",
+        "tier": "A",
+        "recommendation": "Reduce wholesale receipts by 20% for next 4 weeks",
+        "rationale": "WOS at 18.2 weeks (21% above target). A-item needs velocity improvement."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 18.2,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-050",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A87Z20DN",
+        "target_description": "690 - 13\" TWILL SHORT - A87Z20DN",
+        "fineline": "690 - 13\" TWILL SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 20% for next 4 weeks",
+        "rationale": "WOS at 18.1 weeks (21% above target). B-item needs velocity improvement."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 18.1,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-048",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A87Z20CH",
+        "target_description": "690 - 13\" TWILL SHORT - A87Z20CH",
+        "fineline": "690 - 13\" TWILL SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 20% for next 4 weeks",
+        "rationale": "WOS at 17.2 weeks (15% above target). B-item needs velocity improvement."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 17.2,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-022",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "11874BK",
+        "target_description": "711 - FLEX 874 WORK PANT - 11874BK",
+        "fineline": "711 - FLEX 874 WORK PANT",
+        "tier": "A",
+        "recommendation": "Reduce wholesale receipts by 20% for next 4 weeks",
+        "rationale": "WOS at 16.3 weeks (9% above target). A-item needs velocity improvement."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 16.3,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-037",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A88IC0GA",
+        "target_description": "661 - DENIM SHORT - A88IC0GA",
+        "fineline": "661 - DENIM SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 20% for next 4 weeks",
+        "rationale": "WOS at 15.8 weeks (5% above target). B-item needs velocity improvement."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 15.8,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-049",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A87Z20DS",
+        "target_description": "690 - 13\" TWILL SHORT - A87Z20DS",
+        "fineline": "690 - 13\" TWILL SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 20% for next 4 weeks",
+        "rationale": "WOS at 15.6 weeks (4% above target). B-item needs velocity improvement."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 15.6,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-039",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A88ICBLK",
+        "target_description": "661 - DENIM SHORT - A88ICBLK",
+        "fineline": "661 - DENIM SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 20% for next 4 weeks",
+        "rationale": "WOS at 15.4 weeks (3% above target). B-item needs velocity improvement."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 15.4,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-046",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A85YS0BD",
+        "target_description": "680 - RIPSTOP SHORT - A85YS0BD",
+        "fineline": "680 - RIPSTOP SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 20% for next 4 weeks",
+        "rationale": "WOS at 15.4 weeks (3% above target). B-item needs velocity improvement."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 15.4,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-040",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A88IC0MS",
+        "target_description": "661 - DENIM SHORT - A88IC0MS",
+        "fineline": "661 - DENIM SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 15% for next 3-4 weeks",
+        "rationale": "B-tier item with 13.7 weeks WOS. Moderate velocity improvement needed."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 13.7,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-038",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "inventory_management",
+      "priority": "medium",
+      "status": "pending",
+      "action": {
+        "type": "reduce_receipts",
+        "target": "sku",
+        "target_id": "A88IC0DS",
+        "target_description": "661 - DENIM SHORT - A88IC0DS",
+        "fineline": "661 - DENIM SHORT",
+        "tier": "B",
+        "recommendation": "Reduce wholesale receipts by 15% for next 3-4 weeks",
+        "rationale": "B-tier item with 13.5 weeks WOS. Moderate velocity improvement needed."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 13.5,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-025",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "performance_investigation",
+      "priority": "low",
+      "status": "pending",
+      "action": {
+        "type": "monitor",
+        "target": "sku",
+        "target_id": "A89J80CH",
+        "target_description": "2812 - JACKETS - A89J80CH",
+        "fineline": "2812 - JACKETS",
+        "tier": "C",
+        "recommendation": "Monitor - C-tier with 13.6 weeks WOS",
+        "rationale": "C-tier item with elevated WOS. Consider for future phase-out."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 13.6,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    },
+    {
+      "action_id": "ACT-2025-WK40-029",
+      "week_created": 40,
+      "date_created": "2025-11-16",
+      "category": "performance_investigation",
+      "priority": "low",
+      "status": "pending",
+      "action": {
+        "type": "monitor",
+        "target": "sku",
+        "target_id": "A88GB0KU",
+        "target_description": "1141-DICKIES SS TEES - A88GB0KU",
+        "fineline": "1141-DICKIES SS TEES",
+        "tier": "C",
+        "recommendation": "Monitor - C-tier with 13.0 weeks WOS",
+        "rationale": "C-tier item with elevated WOS. Consider for future phase-out."
+      },
+      "expected_impact": {
+        "metric": "wos",
+        "current_value": 13.0,
+        "target_value": 15.0,
+        "timeframe_weeks": 3,
+        "estimated_wholesale_impact": 0
+      },
+      "actual_impact": null,
+      "owner": "Austin",
+      "walmart_contact": null,
+      "follow_up_actions": []
+    }
+  ],
+  "action_summary": {
+    "total": 50,
+    "high_priority": 35,
+    "medium_priority": 13,
+    "low_priority": 2
+  },
+  "size_recommendations": [
+    {
+      "sku": "GP8111BK",
+      "fineline": "605 - SLIM FIT PANT",
+      "tier": "C",
+      "total_sizes": 15,
+      "dead_sizes": 7,
+      "size_efficiency_pct": 13.3,
+      "recommendation": "Optimize size curve - 7 dead sizes out of 15",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "GP8111VG",
+      "fineline": "605 - SLIM FIT PANT",
+      "tier": "C",
+      "total_sizes": 15,
+      "dead_sizes": 15,
+      "size_efficiency_pct": 0.0,
+      "recommendation": "Optimize size curve - 15 dead sizes out of 15",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "GS570DN",
+      "fineline": "608 - SS WORK SHIRT",
+      "tier": "B",
+      "total_sizes": 5,
+      "dead_sizes": 2,
+      "size_efficiency_pct": 0.0,
+      "recommendation": "Optimize size curve - 2 dead sizes out of 5",
+      "priority": "medium",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "GS570CH",
+      "fineline": "608 - SS WORK SHIRT",
+      "tier": "C",
+      "total_sizes": 5,
+      "dead_sizes": 3,
+      "size_efficiency_pct": 0.0,
+      "recommendation": "Optimize size curve - 3 dead sizes out of 5",
+      "priority": "medium",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "GVS360VY9",
+      "fineline": "609 - HIGH VIS",
+      "tier": "B",
+      "total_sizes": 4,
+      "dead_sizes": 4,
+      "size_efficiency_pct": 0.0,
+      "recommendation": "Optimize size curve - 4 dead sizes out of 4",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "GL570BK",
+      "fineline": "611 - LS WORK SHIRT",
+      "tier": "C",
+      "total_sizes": 5,
+      "dead_sizes": 3,
+      "size_efficiency_pct": 0.0,
+      "recommendation": "Optimize size curve - 3 dead sizes out of 5",
+      "priority": "medium",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "GL570DN",
+      "fineline": "611 - LS WORK SHIRT",
+      "tier": "B",
+      "total_sizes": 5,
+      "dead_sizes": 1,
+      "size_efficiency_pct": 20.0,
+      "recommendation": "Optimize size curve - 1 dead sizes out of 5",
+      "priority": "medium",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "GP338BK",
+      "fineline": "674 - CARGO PANT",
+      "tier": "A",
+      "total_sizes": 16,
+      "dead_sizes": 3,
+      "size_efficiency_pct": 43.8,
+      "recommendation": "Optimize size curve - 3 dead sizes out of 16",
+      "priority": "medium",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "GP338DN",
+      "fineline": "674 - CARGO PANT",
+      "tier": "C",
+      "total_sizes": 16,
+      "dead_sizes": 5,
+      "size_efficiency_pct": 25.0,
+      "recommendation": "Optimize size curve - 5 dead sizes out of 16",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "GP738BK",
+      "fineline": "675 - DBL KNEE PANT",
+      "tier": "A",
+      "total_sizes": 16,
+      "dead_sizes": 8,
+      "size_efficiency_pct": 0.0,
+      "recommendation": "Optimize size curve - 8 dead sizes out of 16",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "GP738DN",
+      "fineline": "675 - DBL KNEE PANT",
+      "tier": "C",
+      "total_sizes": 16,
+      "dead_sizes": 8,
+      "size_efficiency_pct": 12.5,
+      "recommendation": "Optimize size curve - 8 dead sizes out of 16",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "EU1939RMS",
+      "fineline": "679 - DUCK PANT",
+      "tier": "A",
+      "total_sizes": 17,
+      "dead_sizes": 6,
+      "size_efficiency_pct": 41.2,
+      "recommendation": "Optimize size curve - 6 dead sizes out of 17",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "EU1939RSL",
+      "fineline": "679 - DUCK PANT",
+      "tier": "A",
+      "total_sizes": 17,
+      "dead_sizes": 6,
+      "size_efficiency_pct": 41.2,
+      "recommendation": "Optimize size curve - 6 dead sizes out of 17",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "EU1939RBD",
+      "fineline": "679 - DUCK PANT",
+      "tier": "A",
+      "total_sizes": 17,
+      "dead_sizes": 5,
+      "size_efficiency_pct": 52.9,
+      "recommendation": "Optimize size curve - 5 dead sizes out of 17",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "EU1939RBK",
+      "fineline": "679 - DUCK PANT",
+      "tier": "A",
+      "total_sizes": 17,
+      "dead_sizes": 4,
+      "size_efficiency_pct": 41.2,
+      "recommendation": "Optimize size curve - 4 dead sizes out of 17",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "11874DS",
+      "fineline": "711 - FLEX 874 WORK PANT",
+      "tier": "A",
+      "total_sizes": 16,
+      "dead_sizes": 8,
+      "size_efficiency_pct": 0.0,
+      "recommendation": "Optimize size curve - 8 dead sizes out of 16",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "11874CH",
+      "fineline": "711 - FLEX 874 WORK PANT",
+      "tier": "A",
+      "total_sizes": 16,
+      "dead_sizes": 10,
+      "size_efficiency_pct": 0.0,
+      "recommendation": "Optimize size curve - 10 dead sizes out of 16",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "11874DN",
+      "fineline": "711 - FLEX 874 WORK PANT",
+      "tier": "A",
+      "total_sizes": 27,
+      "dead_sizes": 13,
+      "size_efficiency_pct": 11.1,
+      "recommendation": "Optimize size curve - 13 dead sizes out of 27",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "A8DLSBLK",
+      "fineline": "4192 - GD HANGING GRAPHIC TEE",
+      "tier": "C",
+      "total_sizes": 6,
+      "dead_sizes": 6,
+      "size_efficiency_pct": 0.0,
+      "recommendation": "Optimize size curve - 6 dead sizes out of 6",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "A89WO0KU",
+      "fineline": "4192 - GD HANGING GRAPHIC TEE",
+      "tier": "C",
+      "total_sizes": 6,
+      "dead_sizes": 5,
+      "size_efficiency_pct": 0.0,
+      "recommendation": "Optimize size curve - 5 dead sizes out of 6",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "A89WOBLK",
+      "fineline": "4192 - GD HANGING GRAPHIC TEE",
+      "tier": "C",
+      "total_sizes": 6,
+      "dead_sizes": 1,
+      "size_efficiency_pct": 33.3,
+      "recommendation": "Optimize size curve - 1 dead sizes out of 6",
+      "priority": "medium",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    },
+    {
+      "sku": "A8DLSAL2",
+      "fineline": "4192 - GD HANGING GRAPHIC TEE",
+      "tier": "C",
+      "total_sizes": 6,
+      "dead_sizes": 6,
+      "size_efficiency_pct": 0.0,
+      "recommendation": "Optimize size curve - 6 dead sizes out of 6",
+      "priority": "high",
+      "expected_impact": "Reduce inventory bloat, improve WOS"
+    }
+  ]
+}

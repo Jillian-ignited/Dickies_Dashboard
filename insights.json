@@ -1,0 +1,127 @@
+{
+  "week": 40,
+  "top_gainers": [
+    {
+      "sku": "A85XE0TB",
+      "description": "472 - OUTERWEAR - A85XE0TB",
+      "sales_dollars_lw": -34.98,
+      "unit_pct_change": 1099.0
+    },
+    {
+      "sku": "A85ZC0GC",
+      "description": "661 - DENIM SHORT - A85ZC0GC",
+      "sales_dollars_lw": -8.0,
+      "unit_pct_change": 19.0
+    },
+    {
+      "sku": "11874VG",
+      "description": "711 - FLEX 874 WORK PANT - 11874VG",
+      "sales_dollars_lw": -82.92,
+      "unit_pct_change": 15.2
+    },
+    {
+      "sku": "GV487DN",
+      "description": "600 - COVERALL - GV487DN",
+      "sales_dollars_lw": -68.82,
+      "unit_pct_change": 4.5
+    },
+    {
+      "sku": "EB713RNB",
+      "description": "640 -  BIBS - EB713RNB",
+      "sales_dollars_lw": -3281.43,
+      "unit_pct_change": 3.32608695652174
+    },
+    {
+      "sku": "NJS15BTB",
+      "description": "472 - OUTERWEAR - NJS15BTB",
+      "sales_dollars_lw": -36.98,
+      "unit_pct_change": 2.0
+    },
+    {
+      "sku": "GP6388DS",
+      "description": "604 - RELAXED PANT - GP6388DS",
+      "sales_dollars_lw": 5.0,
+      "unit_pct_change": 1.0
+    },
+    {
+      "sku": "11574DN",
+      "description": "611 - LS WORK SHIRT - 11574DN",
+      "sales_dollars_lw": 9.92,
+      "unit_pct_change": 1.0
+    },
+    {
+      "sku": "11574DS",
+      "description": "611 - LS WORK SHIRT - 11574DS",
+      "sales_dollars_lw": -26.99,
+      "unit_pct_change": 1.0
+    },
+    {
+      "sku": "ED1993THK",
+      "description": "629 - UTILITY JEAN - ED1993THK",
+      "sales_dollars_lw": 13.0,
+      "unit_pct_change": 1.0
+    }
+  ],
+  "top_decliners": [
+    {
+      "sku": "A85YTFBK",
+      "description": "690 - 13\" TWILL SHORT - A85YTFBK",
+      "sales_dollars_lw": 16.0,
+      "unit_pct_change": -137.0
+    },
+    {
+      "sku": "A85YT0VG",
+      "description": "690 - 13\" TWILL SHORT - A85YT0VG",
+      "sales_dollars_lw": 5.0,
+      "unit_pct_change": -109.333333333333
+    },
+    {
+      "sku": "A85YT0DS",
+      "description": "690 - 13\" TWILL SHORT - A85YT0DS",
+      "sales_dollars_lw": 38.98,
+      "unit_pct_change": -84.3333333333333
+    },
+    {
+      "sku": "A85YT0DN",
+      "description": "690 - 13\" TWILL SHORT - A85YT0DN",
+      "sales_dollars_lw": -6.5,
+      "unit_pct_change": -74.5
+    },
+    {
+      "sku": "A85YQMSW",
+      "description": "661 - DENIM SHORT - A85YQMSW",
+      "sales_dollars_lw": 10.0,
+      "unit_pct_change": -57.0
+    },
+    {
+      "sku": "GP8738BK",
+      "description": "675 - DBL KNEE PANT - GP8738BK",
+      "sales_dollars_lw": 182.73,
+      "unit_pct_change": -10.0655737704918
+    },
+    {
+      "sku": "GP474BK",
+      "description": "717 - OPP PANT - GP474BK",
+      "sales_dollars_lw": 9.0,
+      "unit_pct_change": -7.5
+    },
+    {
+      "sku": "A85YSFBK",
+      "description": "680 - RIPSTOP SHORT - A85YSFBK",
+      "sales_dollars_lw": 731.7,
+      "unit_pct_change": -6.96666666666667
+    },
+    {
+      "sku": "GP474DN",
+      "description": "717 - OPP PANT - GP474DN",
+      "sales_dollars_lw": 10.0,
+      "unit_pct_change": -3.5
+    },
+    {
+      "sku": "A85YS0BD",
+      "description": "680 - RIPSTOP SHORT - A85YS0BD",
+      "sales_dollars_lw": 1352.13,
+      "unit_pct_change": -3.29220779220779
+    }
+  ]
+}

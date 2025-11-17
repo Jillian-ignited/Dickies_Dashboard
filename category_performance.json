@@ -1,0 +1,62 @@
+[
+  {
+    "category": "WORK PANT",
+    "sales_dollars_ytd_ty": 61407351.84,
+    "sales_dollars_ytd_ly": 64386708.49,
+    "pct_change": -0.04627285226830204
+  },
+  {
+    "category": "WORK SHORT",
+    "sales_dollars_ytd_ty": 18246914.27,
+    "sales_dollars_ytd_ly": 23178532.6,
+    "pct_change": -0.21276663260382592
+  },
+  {
+    "category": "HIVIS",
+    "sales_dollars_ytd_ty": 7918678.99,
+    "sales_dollars_ytd_ly": 8072680.9399999995,
+    "pct_change": -0.01907692762102391
+  },
+  {
+    "category": "OUTERWEAR",
+    "sales_dollars_ytd_ty": 3282924.19,
+    "sales_dollars_ytd_ly": 2583964.07,
+    "pct_change": 0.27049916371321686
+  },
+  {
+    "category": "WORK SHIRT",
+    "sales_dollars_ytd_ty": 2467975.33,
+    "sales_dollars_ytd_ly": 3647925.52,
+    "pct_change": -0.3234578621550365
+  },
+  {
+    "category": "COVERALLS AND BIBS",
+    "sales_dollars_ytd_ty": 1037764.95,
+    "sales_dollars_ytd_ly": 1104444.16,
+    "pct_change": -0.06037354573000772
+  },
+  {
+    "category": "HEADWEAR",
+    "sales_dollars_ytd_ty": 815690.76,
+    "sales_dollars_ytd_ly": 306431.51999999996,
+    "pct_change": 1.6619022742830114
+  },
+  {
+    "category": "SS WORK TOP",
+    "sales_dollars_ytd_ty": 397338.05,
+    "sales_dollars_ytd_ly": 2858.25,
+    "pct_change": 138.01444940085716
+  },
+  {
+    "category": "WOMEN'S WORK PANT",
+    "sales_dollars_ytd_ty": 2223.6,
+    "sales_dollars_ytd_ly": 3090.66,
+    "pct_change": -0.2805420201510357
+  },
+  {
+    "category": "LS WORK TOP",
+    "sales_dollars_ytd_ty": 988.15,
+    "sales_dollars_ytd_ly": 23703.550000000003,
+    "pct_change": -0.9583121515553576
+  }
+]
