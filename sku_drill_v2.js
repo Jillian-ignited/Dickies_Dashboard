@@ -58,7 +58,7 @@ function buildHierarchy(skus) {
     
     // Calculate fineline aggregates
     Object.values(finelines).forEach(fl => {
-        fl.totalSales = fl.skus.reduce((sum, sku) => sum + (sku.sales_ytd || 0), 0);
+        fl.totalSales = fl.skus.reduce((sum, sku) => sum + (sku.sales_dollars_ytd_ty || 0), 0);
         fl.totalInventory = fl.skus.reduce((sum, sku) => sum + (sku.inventory_dollars_lw || 0), 0);
         fl.avgWOS = fl.totalInventory > 0 && fl.totalSales > 0 ? (fl.totalInventory / (fl.totalSales / 52)) : 0;
         fl.storeCount = Math.max(...fl.skus.map(sku => (sku.prime_items || []).reduce((max, pi) => Math.max(max, pi.curr_valid_stores || 0), 0)));
@@ -145,7 +145,7 @@ function createSKURow(sku, flIndex, skuIndex) {
     const hasChildren = primeItems.length > 0;
     const expandBtn = hasChildren ? '<span class="expand-btn" onclick="toggleSKU(' + flIndex + ',' + skuIndex + ')">▶</span>' : '';
     
-    const sales = sku.sales_ytd || 0;
+    const sales = sku.sales_dollars_ytd_ty || 0;
     const inventory = sku.inventory_dollars_lw || 0;
     const wos = sku.wos || 0;
     const stores = (sku.prime_items || []).reduce((max, pi) => Math.max(max, pi.curr_valid_stores || 0), 0);
